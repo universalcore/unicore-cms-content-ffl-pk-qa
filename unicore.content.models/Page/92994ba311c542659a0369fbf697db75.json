@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "", 
+  "description": "\u0627\u06c1\u0645 \u067e\u06cc\u063a\u0627\u0645", 
   "language": "urd_PK", 
   "title": "\u0627\u06c1\u0645 \u067e\u06cc\u063a\u0627\u0645", 
   "primary_category": "30e9dcbe9d7d46fa90866370cca0be4c", 
-  "created_at": "2015-03-16T09:12:06.933415+00:00", 
+  "created_at": "2015-03-16T09:12:06+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-16T09:12:06.933671+00:00", 
+  "modified_at": "2015-03-16T09:12:48.621222+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
